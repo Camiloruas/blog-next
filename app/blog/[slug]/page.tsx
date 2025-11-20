@@ -188,7 +188,7 @@ export default async function PostDetailPage({ params }: PostDetailPageProps) {
       )}
       
       {/* Botão de Like (Client Component) */}
-      <div style={{ margin: "20px 0", borderBottom: "1px solid #584b4b", paddingBottom: "20px" }}>
+      <div style={{ margin: "20px 0", borderBottom: "1px solid #ddd", paddingBottom: "20px" }}>
         <LikeButton initialLikes={initialLikes} />
       </div>
 
