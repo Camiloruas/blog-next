@@ -9,6 +9,7 @@
 !.yarn/plugins
 !.yarn/releases
 !.yarn/versions
+ESTRUTURA_DO_PROJETO.md
 
 # testing
 /coverage
