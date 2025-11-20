@@ -12,7 +12,6 @@ const eslintConfig = defineConfig([
     "out/**",
     "build/**",
     "next-env.d.ts",
-    "eslint@typescript-eslint/no-empty-object-type",
   ]),
 ]);
 
